@@ -1,0 +1,10 @@
+{
+  "name": "talktoads-agent",
+  "version": "1.0.0",
+  "description": "Run your Meta (Facebook + Instagram) ads from any AI agent: skill + hosted MCP server.",
+  "files": ["skills", "README.md", "LICENSE"],
+  "keywords": ["mcp", "agent-skills", "meta-ads", "facebook-ads", "instagram-ads", "claude", "codex", "openclaw"],
+  "homepage": "https://talktoads.com/?ref=npm",
+  "repository": { "type": "git", "url": "git+https://github.com/IndianAppGuy/talktoads-agent.git" },
+  "license": "MIT"
+}

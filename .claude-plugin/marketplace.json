@@ -1,0 +1,6 @@
+{
+  "name": "talktoads",
+  "owner": { "name": "IndianAppGuy", "email": "hey@sanskartiwari.io" },
+  "description": "TalkToAds: run your Meta (Facebook + Instagram) ads from Claude Code.",
+  "plugins": [{ "name": "talktoads", "source": "./", "description": "Report, audit, boost reels and launch Meta ads. Everything starts paused until you approve." }]
+}

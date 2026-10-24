@@ -1,0 +1,7 @@
+{
+  "name": "talktoads",
+  "version": "1.0.0",
+  "description": "Run your Meta (Facebook + Instagram) ads by talking: reports, audits, reel boosts and campaigns that start paused. Bundles the talktoads skill and the hosted TalkToAds MCP server (Facebook sign-in).",
+  "mcpServers": { "talktoads": { "httpUrl": "https://talktoads.com/mcp" } },
+  "contextFileName": "GEMINI.md"
+}

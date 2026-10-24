@@ -1,0 +1,11 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.theindianappguy/talktoads-mcp",
+  "title": "TalkToAds",
+  "description": "Run Meta (Facebook + Instagram) ads by chat: reports, audits, reel boosts. New ads start paused.",
+  "version": "1.0.0",
+  "websiteUrl": "https://talktoads.com/?ref=mcp-registry",
+  "repository": { "url": "https://github.com/IndianAppGuy/talktoads-agent", "source": "github" },
+  "icons": [{ "src": "https://raw.githubusercontent.com/IndianAppGuy/talktoads-agent/main/assets/icon.png", "mimeType": "image/png", "sizes": ["256x256"] }],
+  "remotes": [{ "type": "streamable-http", "url": "https://talktoads.com/mcp" }]
+}

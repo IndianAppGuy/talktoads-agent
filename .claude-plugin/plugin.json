@@ -1,0 +1,17 @@
+{
+  "name": "talktoads",
+  "displayName": "TalkToAds",
+  "version": "1.0.0",
+  "description": "Run your Meta (Facebook + Instagram) ads by talking: performance reports, account audits, reel boosts and new campaigns that start paused until you say go.",
+  "author": { "name": "IndianAppGuy", "email": "hey@sanskartiwari.io", "url": "https://talktoads.com/?ref=claude-code" },
+  "homepage": "https://talktoads.com/?ref=claude-code",
+  "repository": "https://github.com/IndianAppGuy/talktoads-agent",
+  "license": "MIT",
+  "keywords": ["meta-ads", "facebook-ads", "instagram-ads", "marketing", "advertising", "mcp"],
+  "skills": ["./skills/talktoads"],
+  "mcpServers": { "talktoads": { "type": "http", "url": "https://talktoads.com/mcp" } },
+  "privacyPolicyUrl": "https://talktoads.com/privacy",
+  "termsOfServiceUrl": "https://talktoads.com/terms",
+  "documentationUrl": "https://github.com/IndianAppGuy/talktoads-agent#readme",
+  "icon": "./assets/icon.png"
+}
