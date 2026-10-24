@@ -1,6 +1,6 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "io.github.theindianappguy/talktoads-mcp",
+  "name": "io.github.IndianAppGuy/talktoads-mcp",
   "title": "TalkToAds",
   "description": "Run Meta (Facebook + Instagram) ads by chat: reports, audits, reel boosts. New ads start paused.",
   "version": "1.0.0",
